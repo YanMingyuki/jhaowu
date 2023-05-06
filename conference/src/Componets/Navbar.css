@@ -1,0 +1,12 @@
+.navbar-bg{
+    margin: 0;
+    background-color: #83A0B2;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 22px;
+}
+.navbar-default .navbar-nav>li>a{
+    color: #FEFEFE;
+}  
